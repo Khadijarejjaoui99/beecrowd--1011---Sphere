@@ -1,4 +1,4 @@
-// Solution of 1011 - Sphere with Bonus in beecrowd
+// Solution of 1011 - Sphere in beecrowd
 #include <iostream>
 #include <iomanip>
 
